@@ -1,5 +1,5 @@
 # Requirement Tools
-Tools yang harus disiapkan untuk belajar HTML dan CSS ini yaitu Text Editors dan Browser
+Tools yang harus disiapkan untuk belajar HTML dan CSS ini yaitu Text Editor dan Browser
 
 ## Text Editor
 Dalam mengembangkan sebuah website, tentu kita akan banyak menuliskan sebuah kode HTML, CSS, maupun JavaScript. Maka dari itu, langkah awal yang harus kita siapkan adalah sebuah text editor. Beberapa sistem operasi sebenarnya sudah menyediakan text editor usungannya sendiri.
