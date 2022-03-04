@@ -25,13 +25,13 @@ Hierarki elemen teratas pada berkas HTML adalah elemen HTML-nya itu sendiri. Ele
 
 ## Elemen ```<head>```
 Elemen <head> pada berkas HTML berfungsi sebagai tempat disimpannya informasi dari dokumen HTML. Informasi dapat berupa elemen meta, style, atau link. Dan juga pada elemen ini judul dari dokumen HTML didefinisikan dengan menggunakan elemen <title>. Berikut contoh elemen yang berada pada konten head:
-- title 
-- style
-- base
-- link
-- meta
-- script
-- noscript
+- ```<title>``` 
+- ```<style>```
+- ```<base>```
+- ```<link>```
+- ```<meta>```
+- ```<script>```
+- ```<noscript>```
 
 Pada HTML versi 4.01, elemen ```<head>``` wajib ada di dalam sebuah berkas HTML.<br/> Tetapi semenjak HTML5, penggunaan ```<head>``` dapat dihilangkan. Sehingga struktur dasar berkas HTML menjadi seperti ini:
 
