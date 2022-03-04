@@ -20,18 +20,18 @@ Berkas HTML dasarnya memiliki struktur yang nampak seperti ini:
 
 Kita dapat melihat bahwa struktur dasar HTML dituliskan dari beberapa elemen. Pada setiap elemen HTML terdapat dua tag, yaitu pembuka tag <> dan penutup tag </>. <br/> 
 
-## Elemen <html>
+## Elemen HTML
 Hierarki elemen teratas pada berkas HTML adalah elemen HTML-nya itu sendiri. Elemen ini digunakan untuk memberitahu kepada browser bahwa ini merupakan sebuah berkas HTML sekaligus menjadi root dari sebuah berkasnya itu. Seluruh elemen lainnya tentunya dituliskan pada konten elemen ini.
 
-## Elemen <head>
+## Elemen Head
 Elemen <head> pada berkas HTML berfungsi sebagai tempat disimpannya informasi dari dokumen HTML. Informasi dapat berupa elemen meta, style, atau link. Dan juga pada elemen ini judul dari dokumen HTML didefinisikan dengan menggunakan elemen <title>. Berikut contoh elemen yang berada pada konten head:
-- <title>
-- <style>
-- <base>
-- <link>
-- <meta>
-- <script>
-- <noscript>
+- title 
+- style
+- base
+- link
+- meta
+- script
+- noscript
 
 Pada HTML versi 4.01, elemen <head> wajib ada di dalam sebuah berkas HTML.<br/> Tetapi semenjak HTML5, penggunaan <head> dapat dihilangkan. Sehingga struktur dasar berkas HTML menjadi seperti ini:
 
@@ -47,7 +47,7 @@ Pada HTML versi 4.01, elemen <head> wajib ada di dalam sebuah berkas HTML.<br/> 
     </body>
 </html>
 ```
-## Elemen <body> 
+## Element Body 
 
 Seluruh konten yang terdapat pada elemen ini akan ditampilkan pada halaman website. Maka dari itu, elemen ini digunakan untuk menampung seluruh konten atau elemen yang ditampilkan ke dalam jendela browser. Silakan coba tuliskan kode berikut(Jangan Copas ya masa programer copas hehe)
 
