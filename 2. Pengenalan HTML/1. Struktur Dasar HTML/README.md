@@ -63,7 +63,7 @@ Seluruh konten yang terdapat pada elemen ini akan ditampilkan pada halaman websi
 </html>
 ```
     
-![screenshot](https://github.com/adyuta447/learn-html-css/blob/main/Pengenalan%20HTML/img/2022-03-04_19-36.png)
+![screenshot](https://github.com/adyuta447/learn-html-css/blob/main/2.%20Pengenalan%20HTML/img/2022-03-04_19-36.png)
 
 Kecuali jika kita ingin menuliskan sebuah notes pada berkas HTML, kita perlu gunakan commenting tag. Semua yang dituliskan di antara tag komentar tidak akan memberikan pengaruh apa pun, termasuk pada tampilan di jendela browser. Pada HTML, tag komentar dituliskan seperti ini:
 
