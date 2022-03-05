@@ -123,3 +123,16 @@ Monumen yang didominasi warna putih itu memiliki nilai simbolis dan merupakan ba
 </html>
 
 ```
+
+Kemudian simpan berkas HTML tsb, lalu coba buka pada browser
+![screenshot](https://github.com/adyuta447/learn-html-css/blob/main/2.%20Pengenalan%20HTML/img/2022-03-05_18-49.png)
+
+Mantap, kita sudah berhasil membuat sebuah struktur HTML dasar. Pada modul selanjutnya, kita akan lebih dalam mengetahui tentang elemen yang ada pada HTML.<br/>
+
+Sebelum kita masuk ke materi selanjutnya saya mau kasih sedikit catatan:
+
+- Website : Halaman yang menampilkan informasi melalui teks atau gambar. Website dapat diakses melalui internet dengan menggunakan browser.
+- Browser : Sebuah perangkat lunak yang dapat menerjemahkan berkas HTML, CSS, dan Javascript yang di dapat dari server untuk ditampilkan dalam bentuk halaman website.
+- HTML : Salah satu markup language yang digunakan untuk membuat struktur dan menampilkan konten pada World Wide Web (Website).
+- Text Editor : Sebuah perangkat lunak yang digunakan untuk mengelola plain text. Kode HTML, CSS, dan Javascript dituliskan menggunakan perangkat ini.
+- Element : Sebuah komponen pada HTML yang ditandai dengan tag pembuka dan penutup.
