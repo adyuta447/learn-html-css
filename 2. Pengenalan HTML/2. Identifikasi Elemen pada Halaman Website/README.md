@@ -1,4 +1,4 @@
-## Identifikasi Elemen pada Halaman Website
+# Identifikasi Elemen pada Halaman Website
 Setelah sudah mengetahui struktur dasar HTML, mari kita coba terapkan pada berkas HTML yang sudah kita buat pada langkah awal. Kita buka kembali berkas HTML tersebut dan kita akan berikan elemen dasar pada sebuah berkas HTML
 
 ```html
