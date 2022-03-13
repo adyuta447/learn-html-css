@@ -47,4 +47,4 @@ Gunakan elemen ```<q>``` untuk menandai sebuah kutipan dalam sebuah teks. Elemen
 ```
 Standarnya pada browser sebuah teks yang diberi markup ```<q>``` akan ditampilkan di dalam tanda kutip (Quotation marks).
 
-![screenshot]()
+![screenshot](https://github.com/adyuta447/learn-html-css/blob/main/3.%20Pendalaman%20HTML/img/2022-03-13_23-12.png)
