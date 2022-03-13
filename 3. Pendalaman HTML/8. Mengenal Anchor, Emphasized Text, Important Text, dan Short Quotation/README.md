@@ -43,6 +43,18 @@ Standarnya pada browser sebuah kata yang ditekankan akan ditampilkan dalam gaya 
 
 ![screenshot](https://github.com/adyuta447/learn-html-css/blob/main/3.%20Pendalaman%20HTML/img/2022-03-13_23-07.png)
 
+## Important text
+Gunakan elemen ```<strong>``` untuk menunjukan sebuah teks yang begitu penting (strong importance), serius, ataupun mendesak. Dalam arti teks tersebut harus dapat perhatian lebih dari teks biasa lainnya.
+
+```html
+<p>Kesehatan merupakan hal yang penting, jaga pola makan yang teratur dan <strong>jangan sampai makan tengah
+   malam!</strong></p>
+```
+
+Standarnya pada browser sebuah teks yang diberi markup ```<strong>``` akan ditampilkan secara tebal. Dan ketika pengguna menggunakan pembaca layar (screen reader), suara yang terdengar akan berbeda. Ini mengartikan bahwa teks tersebut penting tidak hanya sekedar tebal.
+
+![screenshot](https://github.com/adyuta447/learn-html-css/blob/main/3.%20Pendalaman%20HTML/img/2022-03-13_23-24.png)
+
 ## Short quotations
 Gunakan elemen ```<q>``` untuk menandai sebuah kutipan dalam sebuah teks. Elemen short quations berbeda dengan ```<blockquote>```. Elemen ini digunakan untuk kutipan pendek yang terletak di dalam baris (inline). Berikut ini adalah contohnya:
 
