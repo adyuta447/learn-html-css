@@ -34,7 +34,11 @@ Gunakan elemen ```<em>``` untuk menunjukan bagian kata yang perlu kita tekankan.
 <p><em>Oding</em> adalah seorang pelajar</p>
 <p>Dia adalah seorang <em>pelajar</em></p>
 ```
-Standarnya pada browser sebuah teks yang diberi markup ```<strong>``` akan ditampilkan secara tebal. Dan ketika pengguna menggunakan pembaca layar (screen reader), suara yang terdengar akan berbeda. Ini mengartikan bahwa teks tersebut penting tidak hanya sekedar tebal.
+Pada kalimat pertama, penekanan terdapat pada “siapa” seorang pelajar. Sedangkan pada kalimat kedua, penekanan terdapat pada “apa” yang sedang ditekuni oleh Oding.
+
+Standarnya pada browser sebuah kata yang ditekankan akan ditampilkan dalam gaya miring pada teks nya.
+
+
 
 
 ![screenshot](https://github.com/adyuta447/learn-html-css/blob/main/3.%20Pendalaman%20HTML/img/2022-03-13_23-07.png)
