@@ -1,6 +1,6 @@
 # Praktik Menerapkan Anchor pada Navigasi Halaman Profile
 
-Pada praktik [sebelumnya](https://github.com/adyuta447/learn-html-css/tree/main/3.%20Pendalaman%20HTML/5.%20Praktik%20Menambah%20List%20pada%20Halaman%20Profile) sudah ada sebuah list sebagai navigasi. Namun demikian, karena belum ada elemen anchor ```<a>```, maka navigasi tersebut belum dapat kita gunakan. Oleh karena itu, mari kita tambahkan elemen anchor pada tiap item <i>list</i>-nya.
+Pada praktik [sebelumnya](https://github.com/adyuta447/learn-html-css/tree/main/3.%20Pendalaman%20HTML/005.%20Praktik%20Menambah%20List%20pada%20Halaman%20Profile) sudah ada sebuah list sebagai navigasi. Namun demikian, karena belum ada elemen anchor ```<a>```, maka navigasi tersebut belum dapat kita gunakan. Oleh karena itu, mari kita tambahkan elemen anchor pada tiap item <i>list</i>-nya.
 
 Silahkan buka kembali berkas <b>index.html</b> pada <i>teks editor</i>. Tambahkan elemen anchor di setiap item <i>list</i>.
 
