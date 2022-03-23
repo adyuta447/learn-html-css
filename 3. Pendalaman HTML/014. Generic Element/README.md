@@ -113,5 +113,6 @@ putih</span> kemudian satu sendok makan <span class="bahan">gula</span> dan <spa
 </html>
 ```
 Jika kita coba lihat pada browser, akan tampak seperti ini:
+
 ![screenshot](https://github.com/adyuta447/learn-html-css/blob/main/3.%20Pendalaman%20HTML/img/2022-03-23_21-16.png)
 
