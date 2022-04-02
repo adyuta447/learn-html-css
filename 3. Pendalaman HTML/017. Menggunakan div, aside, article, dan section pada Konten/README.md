@@ -2,7 +2,7 @@
 
 Kita sudah membagi konten pada elemen ```<body>``` secara besar menjadi tiga bagian. Tetapi belum sampai disitu ya, pada salah satu bagiannya yaitu pada elemen ```<main>```, masih terdapat konten yang dapat kita kelompokan. Di sini kita akana menerapkan generic elemen seperti ```<div>``` dan <i>semantic</i> elemen lainnya seperti ```<aside>```, ```<article>```, dan ```<section>``` dalam mengelompokkan elemennya.
 
-Sebelum itu kalian harus download asset yang sudah disediakan oleh penulis yang terdiri dari ```index.html``` dan juga beberapa gambar lainnya. Kasian bisa mendownloadnya [disini](https://www.mediafire.com/file/ahwfp2p5z1ygo1e/WebDasar.zip/file)
+Sebelum itu kalian harus download asset yang sudah disediakan oleh penulis yang terdiri dari ```index.html``` dan juga beberapa gambar lainnya. Kalian bisa mendownloadnya [disini](https://www.mediafire.com/file/ahwfp2p5z1ygo1e/WebDasar.zip/file)
 
 Dimulai dari hierarki teratas, dalam elemen ```<main>``` kita bagi konten menjadi dua bagian, yang pertama sebuah konten utama yang dikelompokan menggunakan ```<div>``` dan konten samping yang dikelompokkan menggunakan ```<aside>```.
 
