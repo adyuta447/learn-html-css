@@ -84,4 +84,6 @@ Untuk merentangkan sebuah baris(<i>row spanning</i>) kita dapat menggunakan atri
 
 Perhatikan elemen ```<th>``` yang diberi nilai atribut ```rowspan```. Elemen tersebut berada pada baris pertama dan akan memanjang menjadi tiga baris ke bawahnya. Jadi pada baris tersebut kita membuatuhkan dua buah elemen (```<th>``` dan ```<td>```) dan pada baris selanjutnya (baris dua dan tiga) kita hanya perlu satu buah elemen ```<td>``` saja di dalam elemen ```<tr>``` setelahnya. Sehingga jika dilihat pada <i>browser</i> akan nampak seperti ini:
 
-![screenshot](https://github.com/adyuta447/learn-html-css/blob/main/3.%20Pendalaman%20HTML/img/Screenshot%202022-04-11%20202936.png)
+<p align="center">
+   <img src="https://github.com/adyuta447/learn-html-css/blob/main/3.%20Pendalaman%20HTML/img/Screenshot%202022-04-11%20202936.png" alt="screenshot">
+</p>
