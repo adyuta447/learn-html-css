@@ -117,5 +117,6 @@ Monumen yang didominasi warna putih itu memiliki nilai simbolis dan merupakan ba
 </html>
 
 ```
-
-![screenshot](https://github.com/adyuta447/learn-html-css/blob/main/3.%20Pendalaman%20HTML/img/2022-03-16_23-38.png)
+<p align="center">
+    <img src="https://github.com/adyuta447/learn-html-css/blob/main/3.%20Pendalaman%20HTML/img/2022-03-16_23-38.png" alt="screenshot">
+</p>
