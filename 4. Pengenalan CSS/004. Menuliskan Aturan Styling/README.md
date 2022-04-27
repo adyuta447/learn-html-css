@@ -2,7 +2,7 @@
 
 Sebuah <i>style sheet</i> dibuat terdiri dari satu atau lebih atura styling (biasa disebut dengan <i>rules</i> atau <i>rule-sets</i>) yang mendeskripsikan bagaimana sebuah elemen atau sebuah kelompok elemen ditampilkan dalam jendela browser.
 
-Langkah awal belajar CSS adalah dengan memahami sebuah bagian rule. Berikut ini dua contoh rules yang dituliskan dalam sebuah CSS. Rule yang pertama menerapkan sebuah warna hijau pada elemen ```<h1>``` dan rule yang kedia menetapkan ukuran font dan tipe font pada sebueh elemen paragraf.
+Langkah awal belajar CSS adalah dengan memahami sebuah bagian rule. Berikut ini dua contoh rules yang dituliskan dalam sebuah CSS. Rule yang pertama menerapkan sebuah warna hijau pada elemen ```<h1>``` dan rule yang kedia menetapkan ukuran font dan tipe font pada sebuah elemen paragraf.
 
 ```css
 h1 { color: blue; }
