@@ -4,7 +4,7 @@ Setelah kita menuliskan <i>rules</i>, maka tahapan selanjutnya adalah melampirka
 
 ## External Style Sheet
 
-<i>External Style Sheet</i> meruapak  berkas terpisah yang di dalamnya hanya terdapat sebuah rules. Berkas ini harus berekstensi <b>.css</b>, dan berkas ini nantinya dihubungkan pada dokumen HTML. Cara ini merupakan yang paling powerful dalam menerapkan <i>styling</i>. Karena dengan cara ini, satu berkas <i>styling</i> (.css) dapat digunakan oleh banyak berkas HTML.
+<i>External Style Sheet</i> merupakan berkas terpisah yang di dalamnya hanya terdapat sebuah rules. Berkas ini harus berekstensi <b>.css</b>, dan berkas ini nantinya dihubungkan pada dokumen HTML. Cara ini merupakan yang paling powerful dalam menerapkan <i>styling</i>. Karena dengan cara ini, satu berkas <i>styling</i> (.css) dapat digunakan oleh banyak berkas HTML.
 
 Kemudian, untuk menyambungkan berkas .css dengan dokumen HTML, kita dapat menggunakan elemen ```<link>``` pada ```<head>``` berkas HTML. Contohnya:
 
