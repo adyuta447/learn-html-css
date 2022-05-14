@@ -75,6 +75,6 @@ terdiri lebih dari satu baris -->
 Nah ini berguna untuk memberikan label dan mengorganisir sebuah document yg panjang, terlebih ketika kita bekerja secara tim
 
 ## Lorem Ipsum
-Lorem ipsum adalah teks standar yang ditempatkan untuk mendemonstrasikan elemen grafis atau presentasi visual seperti font, tipografi, dan tata letak. Tujuan penggunaan lorem ipsum sebagai berikut:]
+Lorem ipsum adalah teks standar yang ditempatkan untuk mendemonstrasikan elemen grafis atau presentasi visual seperti font, tipografi, dan tata letak. Tujuan penggunaan lorem ipsum sebagai berikut:
 - Sebagai pengisi sementara jika belum ada konten teks.
 - Jika ingin menunjukkan hasil website sementara di mana audiens diharapkan lebih fokus kepada elemen desain yang dipresentasikan dan bukan pada isi teks.
