@@ -85,7 +85,7 @@ Class juga bersifat shareable, sehingga dapat diterapkan pada banyak elemen deng
     <h2 class="green">Heading ini berwarna hijau</p>
     <p class="green">Paragraf ini berwarna hijau</p>
 ```
-Yidak hanya itu, sebuah elemen juga mungkin memiliki banyak nilai class, sehingga kita dapat menerapkan lebih dari satu rule atau gabungan rule pada elemen target. Untuk menggunakannya, pada atribut ```class``` kita cukup tuliskan nama kelasnya dan pisahkan tiap kelasnya dengan spasi.
+Tidak hanya itu, sebuah elemen juga mungkin memiliki banyak nilai class, sehingga kita dapat menerapkan lebih dari satu rule atau gabungan rule pada elemen target. Untuk menggunakannya, pada atribut ```class``` kita cukup tuliskan nama kelasnya dan pisahkan tiap kelasnya dengan spasi.
 
 ```html
     <h2 class="green purple-bg">Heading ini berwarna hijau dengan background ungu</p>
