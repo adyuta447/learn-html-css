@@ -37,7 +37,7 @@ h1 + p {
 <img src="https://github.com/adyuta447/learn-html-css/blob/main/5.%20Pendalaman%20CSS/img/Screenshot%202022-06-08%20022407.png" alt="screenshot">
 </p>
 
-General Sibling Selector (~)
+## General Sibling Selector (~)
  
 Mirip seperti Adjacent Sibling Selector namun rules akan diterapkan pada seluruh elemen kedua yang berada setelah elemen pertama. Dengan catatan, indukny sama, walaupun posisi dari elemen kedua tidak berada tepat setelahnya. General Sibling Selector menggunakan tanda (~) untuk menetapkan elemennya.
 
