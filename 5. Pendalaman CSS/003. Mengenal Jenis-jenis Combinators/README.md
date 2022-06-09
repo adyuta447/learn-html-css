@@ -10,7 +10,7 @@ h1 + p {
     color: blue;
 }
 ```
-</i>Adjacent Sibling Selector<i> terdiri dari dua buah target elemen, namun hanya elemen kedua yang menerapkan rule selama elemen tersebut ditulisakan langsung setelah elemen pertama pada berkas HTML. Selain itu kedua elemen tersebut harus berada di dalam induk elemen yang sama. Pada contoh di atas rule yang akan diterapkan pada elemen paragraf yang berada tepat setelah elemen gambar.
+<i>Adjacent Sibling Selector</i> terdiri dari dua buah target elemen, namun hanya elemen kedua yang menerapkan rule selama elemen tersebut ditulisakan langsung setelah elemen pertama pada berkas HTML. Selain itu kedua elemen tersebut harus berada di dalam induk elemen yang sama. Pada contoh di atas rule yang akan diterapkan pada elemen paragraf yang berada tepat setelah elemen gambar.
 
 ```html
 <!DOCTYPE html>
