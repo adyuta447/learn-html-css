@@ -76,3 +76,85 @@ Rule di atas akan diterapkan pada elemen paragraf yang berada setelah elemen img
 <p align="center">
 <img src="https://github.com/adyuta447/learn-html-css/blob/main/5.%20Pendalaman%20CSS/img/Screenshot%202022-06-09%20014814.png" alt="screenshot">
 </p>
+
+## Child Selector (>)
+<i>Child Selector</i> menggabungkan dua buah <i>basic selector</i> dengan menggunakan tanda <b>greater than</b> (>) di antara basic <i>selector nya</i>. 
+
+```css
+div > p {
+    background-color: yellow;
+}
+```
+Pada contoh di atas rule akan diterapkan pada seluruh elemen paragraf yang berada di dalam elemen div secara langsung. Bisa kita ilustrasikan, elemen paragraf merupakan <b>anak dari elemen div secara langsung</b>. Untuk lebih jelas, coba kita perhatikan contoh ini:
+
+```html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        div > p {
+            background-color: yellow;
+        }
+    </style>
+</head>
+<body>
+    <div>
+        <p>Paragraf pertama. di dalam div</p>
+        <p>Paragraf kedua. di dalam div</p>
+        <section><p>Paragraf ketiga. di dalam div namun bukan sebagai anak elemen secara langsung</p></section>
+        <p>Paragraf keempat. di dalam div.</p>
+    </div>
+    <p>Paragraf kelima. di luar div.</p>
+</body>
+</html>
+```
+
+<p align="center">
+<img src="https://github.com/adyuta447/learn-html-css/blob/main/5.%20Pendalaman%20CSS/img/Screenshot%202022-06-15%20003617.png" alt="screenshot">
+</p>
+
+## Descendant Selector (space)
+
+<i>Descendant Selector</i> mirip seperti <i>child selector</i> namun hierarkinya lebih luas, karena rule akan diterapkan pada seluruh elemen yang menjadi turunannya walaupun secara tidak langsung. <i>Basic selector</i> pertama dituliskan pada selector ini menjadi induknya dan <i>basic selector</i> yang kedua merupakan elemen yang akan menerapkan rule. <i>Selector</i> ini menggunakan spasi dalam menggabungkan dua <i>basic selector</i>. Coba lihat contoh berikut ini:
+
+```css
+div p {
+    background-color: yellow;
+}
+```
+
+Pada contoh di atas rule akan diterapkan pada seluruh elemen paragraf yang merupakan turunan dari elemen <i>div</i>. Perhatikan contoh berikut penerapannnya:
+
+```html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        div p {
+            background-color: yellow;
+        }
+    </style>
+</head>
+<body>
+    <div>
+        <p>Paragraf pertama. di dalam div</p>
+        <p>Paragraf kedua. di dalam div</p>
+        <section><p>Paragraf ketiga. di dalam div namun bukan sebagai anak elemen secara langsung</p></section>
+        <p>Paragraf keempat. di dalam div.</p>
+    </div>
+    <p>Paragraf kelima. di luar div.</p>
+</body>
+</html>
+```
+
+<p align="center">
+<img src="https://github.com/adyuta447/learn-html-css/blob/main/5.%20Pendalaman%20CSS/img/Screenshot%202022-06-15%20005712.png" alt="screenshot">
+</p>
