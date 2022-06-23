@@ -34,10 +34,10 @@ a:active {
 }
 ```
 
-Tidak hanya yang dicontohkan di atasm ada banyak sekali class semu yang menjadi standar <i>pseudo-classes</i> dalam CSS.
+Tidak hanya yang dicontohkan di atas ada banyak sekali class semu yang menjadi standar <i>pseudo-classes</i> dalam CSS.
 
 ## Pseudo-elemen Selector
-Sama seperti <i>pseudo-class</i>, pseudo-elemen merupakan sebuah elemen <b>semu</b> yang sebenarnya ada tetapi tidak tampat secara tertulis pada berkas HTML. Selector ini biasa digunakan ketika ingin menambahkan sebuah konten tepat sebelum dan setelah sebuah elemen paragraf. Jadi kita tidak perlu menuliskan sturktur elemen tersebut pada berkas HTML. Cukup manfaatkan pseudo-elemen ```::before``` dan ```::after``` kemudian tuliskan konten tersebut cukup pada CSS. Contohnya kita ingin menambahkan tanda kutip sebelum dan sesudah elemen <i>blockquote</i>. Perhatikan contoh berikut ini dan cara penulisannya:
+Sama seperti <i>pseudo-class</i>, pseudo-elemen merupakan sebuah elemen <b>semu</b> yang sebenarnya ada tetapi tidak tampak secara tertulis pada berkas HTML. Selector ini biasa digunakan ketika ingin menambahkan sebuah konten tepat sebelum dan setelah sebuah elemen paragraf. Jadi kita tidak perlu menuliskan sturktur elemen tersebut pada berkas HTML. Cukup manfaatkan pseudo-elemen ```::before``` dan ```::after``` kemudian tuliskan konten tersebut cukup pada CSS. Contohnya kita ingin menambahkan tanda kutip sebelum dan sesudah elemen <i>blockquote</i>. Perhatikan contoh berikut ini dan cara penulisannya:
 
 ```css
 blockquote::before,
