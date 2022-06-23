@@ -57,7 +57,7 @@ Dengan menuliskan rule tersebut, elemen ```<blockquote>``` memiliki tanda kutip 
 <img src="https://github.com/adyuta447/learn-html-css/blob/main/5.%20Pendalaman%20CSS/img/Screenshot%202022-06-23%20192006.png" alt="null">
 </p>
 
-Untuk menggunakan pseudo-elemen kita gunakan dua buah tanda titik dua(::) kemudian diikuti dengan pseudo-elemen nya. Kita bisa menggunakan satu buah tanda tanda titik dua (:) namun kita perlu membedakannya dengan pseudo-class. Karena itu sebaiknya ketika menggunakan pseudo elemen, gunakanlah dua buah titik dia (::). Pseudo-elemen tidak hanya ```::before``` dan ```::after```. Dengan pseudo-elemen kita juga dapat menentukan rule pada awal karakter konten elmemen.
+Untuk menggunakan pseudo-elemen kita gunakan dua buah tanda titik dua(::) kemudian diikuti dengan pseudo-elemen nya. Kita bisa menggunakan satu buah tanda tanda titik dua (:) namun kita perlu membedakannya dengan pseudo-class. Karena itu sebaiknya ketika menggunakan pseudo elemen, gunakanlah dua buah titik dia (::). Pseudo-elemen tidak hanya ```::before``` dan ```::after```. Dengan pseudo-elemen kita juga dapat menentukan rule pada awal karakter konten elemen.
 
 ```html
 <!DOCTYPE html>
