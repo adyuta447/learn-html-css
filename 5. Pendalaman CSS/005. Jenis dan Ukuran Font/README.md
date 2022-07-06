@@ -73,7 +73,7 @@ Satuan dalam menetapkan ukuran font terdapat dua jenis. Yang pertama <i>relative
 
 |Satuan|Relative pada|Fungsi|
 |:----|:-------------|:-----|
-|em | Font size | Satuan relatif terhadap ukuran font yang sedang digunakan pada elemen |
+|em | Font size | Satuan relatif terhadap ukuran font yang sedang digunakan pada elemen (contohnya, 2em berarti 2 kali lebih besar dari ukuran font seharusnya). |
 |ex | Font height | Satuan relatif terhadap tinggi font saat ini, satuan snagat jarang sekali digunakan |
 |rem | Font size | Mirip seperti em, tetapi rem merupakan satuan relatif terhadap ukuran font dari root elemen |
 |ch | Font width | Satuan relatif terhadap 1% lebar viewport. Contoh 1vw = 1% dari lebar viewport. Satuan ini tidak didukung pada browser IE8 ke bawah |
