@@ -1,7 +1,7 @@
 # Mengenal Teks Terformat
 Sejauh ini, Kita sudah mengenal paragraf, heading dan juga list pada HTML. Tapi sabar, masih ada beberapa lagi yang meruapakan spesial teks format yang dapat kita gunakan yaitu ```<blockqoute>```, ```<pre>```, dan ```<figure>```.
 
-Long quotations
+## Long quotations
 Jika pada konten kita memiliki sebuah kutipan ataupun sebuah testimonial, kita dapat gunakan format long quotations dengan menggunakan tags ```<blockquote>```. Konten di dalam elemen ```<blockquote>``` ini dapat berupa sebuah paragraf, heading, ataupun list.
 
 ```html
