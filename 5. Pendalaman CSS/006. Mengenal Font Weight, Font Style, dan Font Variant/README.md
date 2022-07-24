@@ -11,9 +11,7 @@ Properti selanjutnya adalah <i>font-style</i>. Properti ini digunakan untuk mene
 </p>
 
 <i>italic</i> dan <i>oblique</i> keduanya menampilkan teks yang miring. Perbedaanya adalah <i>italic</i> menerapkan tipe miring(<i>italic font version</i>)
-dari suatu font sedangkan <i>oblique</i> adalah font normal yang hanya dibuat miring.
-
-Properti <i>font-style</i> dapat diaplikasikan ke seluruh elemen yang ada di HTML dan nilainya dapat diturunkan pada elemen turunannya.
+dari suatu font sedangkan <i>oblique</i> adalah font normal yang hanya dibuat miring. Properti <i>font-style</i> dapat diaplikasikan ke seluruh elemen yang ada di HTML dan nilainya dapat diturunkan pada elemen turunannya.
 
 ## font-variant
 Kita terbiasa dnegan aplikasi <i>document editor (rich text)</i> seperti Microsoft Word, tentu tahu atau sudah mencoba fitur <i>small caps</i>. Fitur ini dapat membuat teks menjadi kapital tetapi dituliskan secara kecil dan merapat, seperti ini:
